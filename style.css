@@ -84,6 +84,10 @@ img {
     text-align: center;
   }
 
+  .row {
+    width: 100%;
+  }
+
   #lezioni .row>.left,
   #lezioni .row>.right {
   width: 100%;
